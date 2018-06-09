@@ -1,4 +1,5 @@
-title: #Setup global proxy for npm#
+title: 
+#Setup global proxy for npm#
 tags:npm, proxy
 
 Set user variables: *HTTP_PROXY* and *HTTPS_PROXY*
